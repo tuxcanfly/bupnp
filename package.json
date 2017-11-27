@@ -21,10 +21,10 @@
     "webpack": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "binet": "^0.0.1",
-    "brq": "^0.0.1"
   },
   "devDependencies": {
+    "binet": "github:bcoin-org/binet",
+    "brq": "github:bcoin-org/brq",
     "babelify": "^7.3.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
